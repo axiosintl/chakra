@@ -1,7 +1,7 @@
 # instructions to Run
 # step1:
 install nodejs from https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
-#step2:
+# step2:
 run install_angular.bat file or type "npm install -g @angular/cli" in command prompt
 # step3:
 type "ng new chakra"command in cmd
