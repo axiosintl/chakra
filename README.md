@@ -1,9 +1,14 @@
-#instructions to Run
-step1:install nodejs from https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
-step2:run install_angular.bat file or type "npm install -g @angular/cli" in command prompt
-step3:type "ng new chakra"command in cmd
-step4:after chakra forlder is created replace src folder in chakra with the src folder downloaded
-step5:type "ng serve -o"command in cmd
+# instructions to Run
+# step1:
+install nodejs from https://nodejs.org/dist/v12.16.2/node-v12.16.2-x64.msi
+#step2:
+run install_angular.bat file or type "npm install -g @angular/cli" in command prompt
+# step3:
+type "ng new chakra"command in cmd
+# step4:
+after chakra forlder is created replace src folder in chakra with the src folder downloaded
+# step5:
+type "ng serve -o"command in cmd
 # Chakra
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
